@@ -1,0 +1,23 @@
+{
+  "name": "rwdclassnames",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "debounce": "^1.2.0",
+    "object.omit": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "prettier": {
+    "printWidth": 120,
+    "singleQuote": true,
+    "trailingComma": "all"
+  }
+}
